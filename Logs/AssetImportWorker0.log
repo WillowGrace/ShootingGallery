@@ -1,0 +1,288 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.15f1 (e767a7370072) revision 15165351'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 7948 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/darkm/OneDrive/Documents/GamePrograming2/Shootemup/ShootemUp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54729
+Successfully changed project path to: C:/Users/darkm/OneDrive/Documents/GamePrograming2/Shootemup/ShootemUp
+C:/Users/darkm/OneDrive/Documents/GamePrograming2/Shootemup/ShootemUp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.15f1 (e767a7370072)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/darkm/OneDrive/Documents/GamePrograming2/Shootemup/ShootemUp/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3974 MB
+    Driver:   27.20.100.8935
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001865 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 105.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.802 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1803ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (572ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (215ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (260ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (111ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006533 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\darkm\OneDrive\Documents\GamePrograming2\Shootemup\ShootemUp\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\darkm\OneDrive\Documents\GamePrograming2\Shootemup\ShootemUp\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1319ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1030ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (381ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (367ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2951 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.1 MB.
+System memory in use after: 106.2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3396.
+Total: 2.494700 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.065100 ms MarkObjects: 2.160800 ms  DeleteObjects: 0.083600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Enemy.cs
+  artifactKey: Guid(3a0a405f461a7244aa49df72b0f7f556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy.cs using Guid(3a0a405f461a7244aa49df72b0f7f556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c2e53961d9c06156e56f5418ab49cc') in 0.020529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.535267 seconds.
+  path: Assets/Enemy.cs
+  artifactKey: Guid(3a0a405f461a7244aa49df72b0f7f556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy.cs using Guid(3a0a405f461a7244aa49df72b0f7f556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0862353bf5496fce7b05ab01bb21fe8e') in 0.004160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 249.253448 seconds.
+  path: Assets/Alive2.cs
+  artifactKey: Guid(f22440f74148ef941aebc7bedde08400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alive2.cs using Guid(f22440f74148ef941aebc7bedde08400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2fec3de93bf2aff7eeea737c940446c') in 0.018059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 472.644389 seconds.
+  path: Assets/GotaGun.cs
+  artifactKey: Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GotaGun.cs using Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53dee1b42a79cbd808a6ae11e813701') in 0.013300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 174.337090 seconds.
+  path: Assets/GotaGun.cs
+  artifactKey: Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GotaGun.cs using Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3325b9818c8b6b27e1ec174c55d8bdfb') in 0.004332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 781.578238 seconds.
+  path: Assets/GotaGun.cs
+  artifactKey: Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GotaGun.cs using Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6fcfa3068ddea6d2e6438b81c75e91') in 0.003391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6874.843135 seconds.
+  path: Assets/GotaGun.cs
+  artifactKey: Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GotaGun.cs using Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e068ffd6d8d734d47128add7d68ca7') in 0.003824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.856858 seconds.
+  path: Assets/GotaGun.cs
+  artifactKey: Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GotaGun.cs using Guid(ed436821a23155143a689ea2b7b44fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cf71c6b9b2ec3b09c5f79ad571e0a9') in 0.005112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 711.130428 seconds.
+  path: Assets/Enemy2.cs
+  artifactKey: Guid(6b53c4a3543a4904eb95d19f71bc61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy2.cs using Guid(6b53c4a3543a4904eb95d19f71bc61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dafd61070007fd9a311c637dd7fb4b6') in 0.022323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1474.604707 seconds.
+  path: Assets/Materials/clowndots.mat
+  artifactKey: Guid(c5cdc0a60ac70174a824b7fd7c4df458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/clowndots.mat using Guid(c5cdc0a60ac70174a824b7fd7c4df458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2541c5f9720e0820d303fd40faf0540e') in 0.120437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Materials/Target.mat
+  artifactKey: Guid(c6707d0daac02e843924828fb898c338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Target.mat using Guid(c6707d0daac02e843924828fb898c338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e0f0449c19d846dd810ce23801275d') in 0.018509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2907.451201 seconds.
+  path: Assets/10WeaponsPack/Models
+  artifactKey: Guid(6baec98b574038b449cd631fcf67b0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models using Guid(6baec98b574038b449cd631fcf67b0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f0881ba51099c0f539e3ed49ec22eb') in 0.005842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster5.fbx
+  artifactKey: Guid(48b83f4652eac274aaccef2e6ebb3e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster5.fbx using Guid(48b83f4652eac274aaccef2e6ebb3e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e985fd13e9de3581dab23886184c4bf') in 0.135741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster8.fbx
+  artifactKey: Guid(7c0a61129beb9f1429eabd49903adb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster8.fbx using Guid(7c0a61129beb9f1429eabd49903adb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b790ff23d60c5bcf56f6e605915d070a') in 0.067891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster3.fbx
+  artifactKey: Guid(1fd3f599f31216545bc2aa73164c4ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster3.fbx using Guid(1fd3f599f31216545bc2aa73164c4ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908f9e8105e2529fc55234fd6e19817a') in 0.075654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster9.fbx
+  artifactKey: Guid(903d2e1f4e8d5db49b5f73c23be9328c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster9.fbx using Guid(903d2e1f4e8d5db49b5f73c23be9328c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14a5b9c4e39f14f47ad21c6733e7bd5') in 0.055828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster4.fbx
+  artifactKey: Guid(d17da7ec4f4f3b741a6321ca6741ce39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster4.fbx using Guid(d17da7ec4f4f3b741a6321ca6741ce39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb13ce55c80ab62b8b612cbdb21ee64c') in 0.070980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster7.fbx
+  artifactKey: Guid(3612b36e5c0f4204abe1702df853c621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster7.fbx using Guid(3612b36e5c0f4204abe1702df853c621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9864824386d88df19543f82eba4a2d8a') in 0.066780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster6.fbx
+  artifactKey: Guid(9545cf8a0378b5545a96dcdefb2f420e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster6.fbx using Guid(9545cf8a0378b5545a96dcdefb2f420e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ea1e63d618f020fdbab57e506e3604') in 0.046627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster1.fbx
+  artifactKey: Guid(085d8ba2d90c5b04bae68d0e13aed980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster1.fbx using Guid(085d8ba2d90c5b04bae68d0e13aed980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c855baec0a7d3ff5279745a0c41e30') in 0.096161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster10.fbx
+  artifactKey: Guid(a4bca856892ba5844b51fbfa08ef5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster10.fbx using Guid(a4bca856892ba5844b51fbfa08ef5070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f848e9622049078df29c5c40dc82a32e') in 0.053195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/10WeaponsPack/Models/Blaster2.fbx
+  artifactKey: Guid(ae28c140271a1264a92aaf85e1e67c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10WeaponsPack/Models/Blaster2.fbx using Guid(ae28c140271a1264a92aaf85e1e67c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e90fe902fcaa3f5c7b658a2e383b7f') in 0.077930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 791.254051 seconds.
+  path: Assets/Duck.prefab
+  artifactKey: Guid(6a7301ae05f54f64082886ff049e91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Duck.prefab using Guid(6a7301ae05f54f64082886ff049e91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567035ba05d2126b08778bbf175bc22b') in 0.019143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.895763 seconds.
+  path: Assets/Target.prefab
+  artifactKey: Guid(af0e157a984a34247b56d4f5d25c56b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target.prefab using Guid(af0e157a984a34247b56d4f5d25c56b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd6dbcd4b9536472f4f2b98d1996a98') in 0.012937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.765073 seconds.
+  path: Assets/Clown.prefab
+  artifactKey: Guid(48b55678e0380d2439f01e60992d00e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clown.prefab using Guid(48b55678e0380d2439f01e60992d00e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c589688939e0772b050d185a6ebde2') in 0.016740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5315.897907 seconds.
+  path: Assets/Enemy2.cs
+  artifactKey: Guid(6b53c4a3543a4904eb95d19f71bc61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy2.cs using Guid(6b53c4a3543a4904eb95d19f71bc61b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee29a2337ddf0563c4afc30846d6fabe') in 0.026314 seconds 
